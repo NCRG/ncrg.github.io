@@ -2,16 +2,16 @@
   {
     "uid": 1,
     "text" : "C次元",
-    "link" : "http://classicoldsong.me",
+    "link" : "//classicoldsong.me",
     "username" : "经典老宋",
-    "avatar" : "http://classicoldsong.me/favicon.ico",
+    "avatar" : "//classicoldsong.me/favicon.ico",
     "favorite" : true
 
   },
   {
     "uid": 2,
     "text" : "舰娘中国粉丝论坛",
-    "link" : "http://www.kancollebbs.com",
+    "link" : "//www.kancollebbs.com",
     "username" : "舰队Collection论坛",
     "avatar" : "//statics.kancollebbs.com/images/logo-small.png",
     "favorite": false
@@ -19,9 +19,25 @@
   {
     "uid": 3,
     "text" : "7IN0's Geeklog",
-    "link" : "http://7in0.me",
+    "link" : "//7in0.me",
     "username" : "神楽坂奇諾",
     "avatar" : "http://7in0.me/favicon.png",
+    "favorite": false
+  },
+  {
+    "uid": 4,
+    "text" : "音符の新世界",
+    "link" : "//blog.freedom.moe",
+    "username" : "神楽坂立華",
+    "avatar" : "//node.freedom.moe/content/images/2014/12/kuawa.png",
+    "favorite" : false
+  },
+  {
+    "uid": 5,
+    "text" : "钉子の次元",
+    "link" : "//blog.dimpurr.com",
+    "username" : "钉子",
+    "avatar" : "//res.dimpurr.com/avatar.png",
     "favorite": false
   }
 ]
