@@ -27,7 +27,7 @@
   {
     "uid": 4,
     "text" : "音符の新世界",
-    "link" : "//blog.freedom.moe/",
+    "link" : "//freedom.moe/",
     "username" : "神楽坂立華",
     "avatar" : "https://secure.gravatar.com/avatar/1757722b03cffa93f6fa752f0f453412?s=120&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&r=G",
     "favorite" : false
@@ -42,10 +42,18 @@
   },
   {
     "uid": 6,
-    "text" : "Addams Chen",
+    "text" : "AddamsChen-Blog",
     "link" : "//addams96.me/",
     "username" : "Addams",
     "avatar" : "//photo.yupoo.com/addams96/EoWaIkWg/medish.jpg",
+    "favorite": false
+  },
+  {
+    "uid": 7,
+    "text" : "qwe7002的个人博客",
+    "link" : "http://qwe7002.com/",
+    "username" : "qwe7002",
+    "avatar" : "http://huangjianghua.cn/usr/themes/SimpleXH-master/img/head.jpg",
     "favorite": false
   }
 ]
