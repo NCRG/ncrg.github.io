@@ -10,14 +10,6 @@
   },
   {
     "uid": 2,
-    "text" : "舰娘中国粉丝论坛",
-    "link" : "//www.kancollebbs.com/",
-    "username" : "舰队Collection论坛",
-    "avatar" : "//statics.kancollebbs.com/images/logo-small.png",
-    "favorite": false
-  },
-  {
-    "uid": 3,
     "text" : "7IN0's Geeklog",
     "link" : "//7in0.me/",
     "username" : "神楽坂奇諾",
@@ -25,7 +17,7 @@
     "favorite": false
   },
   {
-    "uid": 4,
+    "uid": 3,
     "text" : "音符の新世界",
     "link" : "//freedom.moe/",
     "username" : "神楽坂立華",
@@ -33,7 +25,7 @@
     "favorite" : false
   },
   {
-    "uid": 5,
+    "uid": 4,
     "text" : "钉子の次元",
     "link" : "//blog.dimpurr.com/",
     "username" : "钉子",
@@ -41,7 +33,7 @@
     "favorite": false
   },
   {
-    "uid": 6,
+    "uid": 5,
     "text" : "AddamsChen-Blog",
     "link" : "//addams96.me/",
     "username" : "Addams",
@@ -49,11 +41,19 @@
     "favorite": false
   },
   {
-    "uid": 7,
+    "uid": 6,
     "text" : "qwe7002的个人博客",
     "link" : "http://qwe7002.com/",
     "username" : "qwe7002",
     "avatar" : "http://huangjianghua.cn/usr/themes/SimpleXH-master/img/head.jpg",
+    "favorite": false
+  },
+  {
+    "uid": 7,
+    "text" : "夜绫千裕's Blog",
+    "link" : "https://yecl.net/",
+    "username" : "夜绫千裕",
+    "avatar" : "//ssl-gravatar.eqoe.cn/avatar/34221157d5b9af03805554ecbe504463?d=404&s=250",
     "favorite": false
   }
 ]
